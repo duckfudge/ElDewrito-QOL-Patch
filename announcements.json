@@ -1,0 +1,11 @@
+{
+    "announcements":[
+        {
+            "date": "01.10.2024",
+            "title": "QOL Patch v7",
+            "subtitle": "Keeping ElDewrito alive",
+            "content": "The QOL patch introduces new features, fixes, and significantly improves performance.<br /><br /><br />♥ QOL Patch Team | Not affiliated with the ElDewrito team<br /><br />https://eldewrito.org/guide | https://zgaf.io/discord",
+            "background": "dew://assets/announcements/welcome_01.jpg"           
+        }
+    ]
+}
